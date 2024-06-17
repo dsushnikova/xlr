@@ -1,4 +1,4 @@
-![LOGO](https://github.com/dsushnikova/xlr/figs/logo.png)
+![LOGO](https://github.com/dsushnikova/xlr/blob/main/figs/logo.png)
 
 <!-- Reproducible material for **XXX -
 Ravasi M., Author M., Author C.** submitted to XXX. -->
